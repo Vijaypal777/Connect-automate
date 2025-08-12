@@ -1,0 +1,6 @@
+BASE_URL = "https://devconnectapp.teldrip.com"
+USERNAME = "moaning.wolverine.pxou@letterhaven.net"
+PASSWORD = "Test@1234"
+CONTACT_LIST_NAME = "Test Contact"
+FILE_PATH = r"D:\AtoZ\Connect_automate\fake_contacts.xlsx"
+CALL_NUMBER = "+917206907047"
